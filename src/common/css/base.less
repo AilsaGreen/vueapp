@@ -1,0 +1,18 @@
+body,html{
+  line-height:1;
+  font-weight:200;
+  font-family:'Helvetica',Arial,sans-serif;
+}
+.clearfix{
+ display: inline-block;
+  &:after{
+    content:'';
+    clear:both;
+    visibility: hidden;
+    height:0;
+    line-height: 0;
+    display: block;
+  }
+}
+/* 'Stencil Std',数字和字母显示不一样，这个字母小写都会改为大写*/
+

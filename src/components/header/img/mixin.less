@@ -1,0 +1,7 @@
+.bg-image(@url){
+  background-image:url('../../components/header/img/@{url}@2x.png');
+  @media  (-webkit-min-device-pixel-ratio:3) and (min-device-pixel-ratio:3)
+  {
+    background-image:url('../../components/header/img/@{url}@3x.png');
+  }
+}
