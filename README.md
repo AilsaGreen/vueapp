@@ -27,7 +27,7 @@ npm run e2e
 npm test
 ```
 
-这个项目是根据慕课网上vue视频的一个实战项目。主要也就是将vue1+webpack,通过查api和看一下视频文档资料了解webpack,webpack-simple,vue2,es6最终实现vue2+webpack+animate.css页面的完整展示，由于将node-muble安装到项目的，所以整体项目偏大一点。
+这个项目是根据慕课网上vue视频的一个实战项目。主要也就是将vue1+webpack,通过查api和看一下视频文档资料了解webpack,webpack-simple,vue2,es6，npm等最终实现vue2+webpack+animate.css页面的完整展示，由于将node-muble安装到项目的，所以整体项目偏大一点。
 
 缺点：老师使用的better-scroll，在下载安装后滑动效果不是太好，但是我自己的页面效果很好的
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
